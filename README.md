@@ -9,6 +9,7 @@
 - VisualStudio 2013, CUDA8.0, cudnn6.0.
 ## 2. 文件结构
 
+    | -- README.md
     | -- code
         | -- gen_data_csv.py
         | -- dataset.py
