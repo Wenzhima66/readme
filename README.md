@@ -20,6 +20,7 @@
         | -- guangdong_round1_test_a_20180916
         | -- guangdong_round1_test_b_20181009
         | -- guangdong_round1_train2_20180916
+    | -- data_preprocess
     | -- submit
 ## 3. 引用
 --
@@ -31,5 +32,11 @@
 
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning]
 - [https://arxiv.org/abs/1602.07261](https://arxiv.org/abs/1602.07261)
+### 模型说明
+
+        我们以Inception-V4网络模型为主干，训练我们预处理之后的图像
+## 4 说明
+--
+
 
 
