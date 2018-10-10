@@ -8,7 +8,7 @@
 - Opencv 2.4
 - VisualStudio 2013, CUDA8.0, cudnn6.0.
 ## 2. 文件结构
---
+
     | -- code
         | -- gen_data_csv.py
         | -- dataset.py
@@ -23,7 +23,7 @@
     | -- data_preprocess
     | -- submit
 ## 3. 引用
---
+
 ### 预训练模型
 
 - [imagenet]
@@ -36,7 +36,7 @@
 
         我们以Inception-V4网络模型为主干，训练我们预处理之后的图像
 ## 4 说明
---
+
 
 
 
