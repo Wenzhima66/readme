@@ -19,4 +19,5 @@
         | -- guangdong_round1_test_b_20181009
         | -- guangdong_round1_train2_20180916
     | -- submit
-## 3. 
+## 3. 引用
+- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
