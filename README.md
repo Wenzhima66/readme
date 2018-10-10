@@ -1,14 +1,14 @@
 # 代码中的说明
 ---
 ## 1. 依赖项
----
+--
 - Python 3.6
 - Numpy 1.14
 - Pytorch 0.4
 - Opencv 2.4
 - VisualStudio 2013, CUDA8.0, cudnn6.0.
 ## 2. 文件结构
----
+--
     | -- code
         | -- gen_data_csv.py
         | -- dataset.py
@@ -22,7 +22,7 @@
         | -- guangdong_round1_train2_20180916
     | -- submit
 ## 3. 引用
----
+--
 ### 预训练模型
 
 - [imagenet]
