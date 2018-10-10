@@ -50,7 +50,7 @@
     3）根据角度，对原始图像进行旋转，将铝型材图像进行角度矫正；
     4）对旋转后的空白图像进行填充，得到最终结果。
 <p align="center">
-  <img width="1040" height="946" src="./img/data_preprocess.jpg">
+  <img width="800" height="728" src="./img/data_preprocess.jpg">
 </p>
 
 
